@@ -849,4 +849,6 @@
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  .siter-io-footer, [class*="siter"] {
+    display: none !important;
 }
